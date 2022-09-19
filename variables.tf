@@ -6,9 +6,7 @@ variable "virtualization-type" {}
 variable "architecture" {}
 variable "public_key_location" {}
 variable "instance_type" {}
-variable "my_ip" {
-  
-}
+variable "my_ip" {}
 
 
 

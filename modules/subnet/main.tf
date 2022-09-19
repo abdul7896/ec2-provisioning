@@ -26,3 +26,4 @@ resource "aws_default_route_table" "main-rtb" {
     Name = "${var.env_prefix}-main-rtb"
   }
 }
+
