@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>terraform-provider-aws/$PROVIDER_VERSION/terraform-provider-aws_$PROVIDER_VERSION_$OS_amd64.zip</Key><RequestId>D704CT8BK3BMFQH0</RequestId><HostId>sl2s1HgS/SaDUXin66VwiorzDhRaQtD9BiUH+t/wUVe/C2Q0ZX3RkSnpiG4vvb92WO4SPlmzmfc=</HostId></Error>
